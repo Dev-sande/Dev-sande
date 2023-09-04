@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tapiwa Sande</h1>
-<h3 align="center">Software Developer | Web & Mobile Developer | Graphic Designerontend developer from India</h3>
+<h3 align="center">Software Developer | Web & Mobile Developer | Graphic Designer</h3>
 
 - 🔭 I’m currently working on [Andoid & iOS Applications](https://play.google.com/store/apps/details?id=com.dg.expense)
 
