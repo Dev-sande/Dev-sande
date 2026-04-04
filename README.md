@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tapiwa Sande</h1>
 <h3 align="center">Software Developer | Web & Mobile Developer | Graphic Designer</h3>
 
-- 🔭 I’m currently working on [Andoid & iOS Applications](https://play.google.com/store/apps/details?id=com.dg.expense)
+-  I’m currently working on [Andoid & iOS Applications](https://play.google.com/store/apps/details?id=com.dg.expense)
 
-- 🌱 I’m currently learning **Machine Learning**
+-  I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/tapiwasande](https://linktr.ee/tapiwasande)
+-  All of my projects are available at [https://linktr.ee/tapiwasande](https://linktr.ee/tapiwasande)
 
-- 💬 Ask me about **Python, Java, JavaScript, Flutter, C, HTML, and CSS.**
+-  Ask me about **Python, Java, JavaScript, Flutter, C, HTML, and CSS.**
 
-- 📫 How to reach me **tapiwasande9@gmail.com**
+-  How to reach me **tapiwasande9@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tapiwa-sande/](https://www.linkedin.com/in/tapiwa-sande/)
+-  Know about my experiences [https://www.linkedin.com/in/tapiwa-sande/](https://www.linkedin.com/in/tapiwa-sande/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
