@@ -2,7 +2,7 @@
 
 Flutter Developer | AI-Powered Mobile Apps | Web Developer
 
-I build and ship real products. I have **3 AI-powered apps live on Google Play**, built with Flutter, Dart, OpenAI, and Google Gemini.
+I build and ship real products.
 
 ---
 
