@@ -1,29 +1,44 @@
-<h1 align="center">Hi 👋, I'm Tapiwa Sande</h1>
-<h3 align="center">Software Developer | Web & Mobile Developer | Graphic Designer</h3>
+Hi, I'm Tapiwa Sande
 
--  I’m currently working on [Andoid & iOS Applications](https://play.google.com/store/apps/details?id=com.dg.expense)
+Flutter Developer | AI-Powered Mobile Apps | Web Developer
 
--  I’m currently learning **Machine Learning**
+ I build and ship real products. I have 3 AI-powered apps live on Google Play, built with Flutter, Dart, OpenAI, and Google Gemini.
 
--  All of my projects are available at [https://linktr.ee/tapiwasande](https://linktr.ee/tapiwasande)
+ What I'm Working On
+- [DonnieAI](https://github.com/Dev-sande/Donnie_AI) — ChatGPT-powered AI assistant app
+- [AI VoiceTyper](https://github.com/Dev-sande/AI-VoiceTyper) — AI voice-to-text communication app
+- [DG Expense Tracker](https://github.com/Dev-sande/DG-Expense-Tracker) — Personal finance tracker
+- Inspect AI *(coming soon)* — AI image analyser powered by Google Gemini
 
--  Ask me about **Python, Java, JavaScript, Flutter, C, HTML, and CSS.**
+Currently Learning
+- Machine Learning & AI integration in mobile apps
+- Google Gemini API
 
--  How to reach me **tapiwasande9@gmail.com**
+ Ask Me About
+**Flutter • Dart • Python • JavaScript • React • Node.js • Java • HTML & CSS**
 
--  Know about my experiences [https://www.linkedin.com/in/tapiwa-sande/](https://www.linkedin.com/in/tapiwa-sande/)
+ How to Reach Me
+**[tapiwasande9@gmail.com](mailto:tapiwasande9@gmail.com)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/taps_dg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taps_dg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tapiwa-sande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tapiwa-sande" height="30" width="40" /></a>
-<a href="https://fb.com/tapiwa.sande.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tapiwa.sande.96" height="30" width="40" /></a>
-<a href="https://instagram.com/tapiwa_sande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tapiwa_sande" height="30" width="40" /></a>
-<a href="https://www.behance.net/tapiwasande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tapiwasande" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@digitalground/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@digitalground" height="30" width="40" /></a>
-</p>
+ Connect With Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/tapiwa-sande)
+[![Behance](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg)](https://www.behance.net/tapiwasande)
+[![YouTube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/@digitalground/videos)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-sande&show_icons=true&locale=en&layout=compact" alt="dev-sande" /></p>
+ Languages and Tools
+
+[![flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)](https://flutter.dev)   [![dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)](https://dart.dev)   [![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)   [![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)   [![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)   [![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)  [![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)   [![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)   [![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com)   [![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)   [![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)   [![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
+
+My Apps on Google Play
+
+| App | Description | Download |
+|-----|-------------|----------|
+| 🤖 DonnieAI | ChatGPT-powered AI assistant | [Play Store](https://play.google.com/store/apps/details?id=app.dg.donnie) |
+| 🎙️ AI VoiceTyper | AI voice-to-text tool | [Play Store](https://play.google.com/store/apps/details?id=com.dg.aivoicetyper) |
+| 💰 DG Expense Tracker | Personal finance tracker | [Play Store](https://play.google.com/store/apps/details?id=com.dg.expense) |
+
+ Experience
+Know more about my experience on **[LinkedIn](https://www.linkedin.com/in/tapiwa-sande/)**
+
+All of my projects are available at **[linktr.ee/tapiwasande](https://linktr.ee/tapiwasande)**
