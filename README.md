@@ -1,12 +1,12 @@
  Hi, I'm Tapiwa Sande
 
-Flutter Developer | AI-Powered Mobile Apps | Web Developer
+Software, Web and Mobile Developer
 
 I build and ship real products.
 
 ---
 
-What I'm Working On
+What I've built so far
 - **[DonnieAI](https://github.com/Dev-sande/Donnie_AI)** — ChatGPT-powered AI assistant app
 - **[AI VoiceTyper](https://github.com/Dev-sande/AI-VoiceTyper)** — AI voice-to-text communication app
 - **[DG Expense Tracker](https://github.com/Dev-sande/DG-Expense-Tracker)** — Personal finance tracker
